@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\bin\Debug\net7.0\BookProject.exe
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\bin\Debug\net7.0\BookProject.deps.json
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\bin\Debug\net7.0\BookProject.runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\bin\Debug\net7.0\BookProject.dll
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\bin\Debug\net7.0\BookProject.pdb
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.dll
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\refint\BookProject.dll
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.pdb
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\BookProject.genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp1\BookProject\obj\Debug\net7.0\ref\BookProject.dll
